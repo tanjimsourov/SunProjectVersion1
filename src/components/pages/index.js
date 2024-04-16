@@ -1,0 +1,12 @@
+export { default as Home } from "./Home";
+export { default as ThirdPage } from "./ThirdPage";
+export { default as Fourth } from "./Fourth";
+export { default as Fifth } from './Fifth'
+export { default as Sixth } from './Sixth'
+export { default as Seventh } from "./Seventh";
+export { default as Eigth } from "./Eigth";
+export { default as Ninth } from "./Ninth"
+export { default as Tenth } from "./Tenth"
+export { default as ElevenPage } from "./Eleven";
+export { default as TwelvePage } from "./Twelve";
+export { default as FourtyPage } from './FourtyPage'
